@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4s7t5pcxzkf7Kyq+2EpBobHKAUbBTMNcg7Cpu6zxVtI=",
+  "Source": "RedisHSet",
+  "BasePath": "_content/RedisHSet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
