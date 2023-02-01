@@ -13,7 +13,7 @@ namespace RedisHSet.Services
 
         public async Task Set()
         {
-            _logger.LogInformation("Hello World! ");
+           
         }
 
         public async Task<List<User>> Get()
