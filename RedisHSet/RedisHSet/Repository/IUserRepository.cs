@@ -1,6 +1,10 @@
-﻿namespace RedisHSet.Repository
+﻿using RedisHSet.Entities;
+
+namespace RedisHSet.Repository
 {
-    public class IUserRepository
+    public interface IUserRepository
     {
+        List<User> CreateUsers(int count);
     }
 }
+
